@@ -1,0 +1,5 @@
+#pdfcheck
+
+A small tool for checking the validity of pdf files, displaying their
+content and in some simple cases fixing minor errors (e.g. invalid stream size).
+
