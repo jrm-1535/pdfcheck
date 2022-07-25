@@ -1,6 +1,6 @@
-github.com/jrm-1535/exif v0.0.0-20220207234711-36984fb318e8 h1:UJSIhAfWDnqPrvIUFg82N0JNXQ9iDTW3uvZEoPLyiWY=
-github.com/jrm-1535/exif v0.0.0-20220207234711-36984fb318e8/go.mod h1:0DD4FTVvmB+ajFzznyJ1f9diIcldKIZwCx+dq2aNJr4=
-github.com/jrm-1535/jpeg v0.0.0-20220210045643-56cb8b96fc72 h1:u6M7yn7rDie62zr0b8I0aTZ9ncitMJ3zbn9AbZO4AG0=
-github.com/jrm-1535/jpeg v0.0.0-20220210045643-56cb8b96fc72/go.mod h1:QjjlAwW9YLNnTbSYRHcQDFHslh46+RpL1KeqYTMS61M=
-github.com/jrm-1535/pdf v0.0.0-20220210050648-639f4e6da464 h1:NhGUNMokwKfRuPIl9KqI0DfSEmB2sHAksWg0ktbkZiY=
-github.com/jrm-1535/pdf v0.0.0-20220210050648-639f4e6da464/go.mod h1:lITp7rIbu9Ojfd40Mbx7cGWo/jhEZKrcg3LQquPtZPQ=
+github.com/jrm-1535/exif v0.0.0-20220401231744-7eff3a0c91ba h1:mHGj8Ii5rXaP3+YcU5Qx13XbkzO5JJOYXaZrHAjC6og=
+github.com/jrm-1535/exif v0.0.0-20220401231744-7eff3a0c91ba/go.mod h1:0DD4FTVvmB+ajFzznyJ1f9diIcldKIZwCx+dq2aNJr4=
+github.com/jrm-1535/jpeg v0.0.0-20220725033137-d4277bf587a2 h1:Ijnr5+tg1nZmC4UdR0VWEsTw2uxoK/45Icxi1yWNOLA=
+github.com/jrm-1535/jpeg v0.0.0-20220725033137-d4277bf587a2/go.mod h1:HC31Fp/kCo1Kzq6PeJAFkWQo0JZcMGJsrr1f/Le/eP0=
+github.com/jrm-1535/pdf v0.0.0-20220725222141-d6c7752214af h1:dRGgo575kWuyKjVT1RzkXB6C/TDM17zRxkgO2B4pZxg=
+github.com/jrm-1535/pdf v0.0.0-20220725222141-d6c7752214af/go.mod h1:S8iheMGayD2BrEt0pq1MESacuODNV+clvOYKMshsyhU=

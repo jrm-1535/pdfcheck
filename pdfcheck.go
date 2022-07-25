@@ -9,7 +9,7 @@ import (
 )
 
 const (
-    VERSION     = "0.1"
+    VERSION     = "0.2"
     VERBOSE     = false
     FIXPARSE    = false
     FIXSTREAM   = false
@@ -102,10 +102,11 @@ func main() {
     fmt.Printf( "Parsing pdf file: %s\n", pArgs.Path )
     pdfData, err := pdf.Parse( pArgs )
     if err != nil {
-        fmt.Printf( "%v", err )
+        fmt.Printf( "Parsing Error%v", err )
     } else {
         err = pdfData.Check( cArgs )
         if err != nil {
+            fmt.Printf( "Checking Error: %v", err )
             os.Exit(2)
         }
 
